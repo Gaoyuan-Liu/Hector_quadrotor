@@ -1,0 +1,8 @@
+prefix=/home/liu/catkin_ws_3/devel
+
+Name: hector_uav_msgs
+Description: Description of hector_uav_msgs
+Version: 0.3.5
+Cflags: -I/home/liu/catkin_ws_3/devel/include -I/home/liu/catkin_ws_3/src/hector_quadrotor/hector_uav_msgs/include
+Libs: -L/home/liu/catkin_ws_3/devel/lib 
+Requires: message_runtime std_msgs
